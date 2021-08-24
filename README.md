@@ -22,7 +22,7 @@ Here are some ideas to get you started:-->
 ## ⚡ Talk to me about
 - Front-end development
     - **HTML**
-    - **CSS** ( **Grid, Flex, Bootstrap** )
+    - **CSS** ( **Basic SCSS, Bootstrap, Styled-Components** )
     - **JS** ( **NodeJS, VanillaJS, React** )
 
 - Designing/Development
