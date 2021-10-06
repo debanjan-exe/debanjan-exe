@@ -36,5 +36,10 @@ https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c6
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-exe&" alt="debanjan-exe" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-exe&" alt="debanjan-exe" />
+  <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="20%" />
+</p>
+<!---<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" /> --->
+
 <img src="https://imgur.com/rilHVxA.png"/>
