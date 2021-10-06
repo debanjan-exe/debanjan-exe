@@ -6,7 +6,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-exe" alt="debanjan-exe" /></a> </p>
 https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg
 --->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?compress=1&resize=1000x700">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?compress=1&resize=1000x700">
+<!-- <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="350" /> -->
+
 
 ---
 - 🔭 I’m currently working on **Something Cool, will let u soon !**
@@ -38,7 +40,7 @@ https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c6
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-exe&" alt="debanjan-exe" />
-  <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="20%" />
+  <img align="center" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 </p>
 <!---<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" /> --->
 
