@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Debanjan</h1>
-<h3 align="center">A boy trying to figure out his talents</h3>
-
+[![MasterHead](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)](https://github.com/debanjan-exe)
+<h1 align="center">Hi, I'm Debanjan</h1>
+<p align="center">A boy trying to figure out his talents/skills</p>
+<!---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-exe" alt="debanjan-exe" /></a> </p>
+--->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c65901935800b5838be6.jpg?compress=1&resize=1000x700">
 
 ---
