@@ -26,7 +26,7 @@ https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c6
 <a href="https://linkedin.com/in/debanjan-acharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debanjan-acharyya" height="30" width="40" /></a>
 <a href="https://fb.com/deba.apk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deba.apk" height="30" width="40" /></a>
 <a href="https://instagram.com/_deba_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_deba_143" height="30" width="40" /></a>
-<a href="https://dev.to/debanjan_exe" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev-to.png" alt="_deba_143" height="30" width="40" /></a>
+<a href="https://dev.to/debanjan_exe" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/dev-to.png" alt="_deba_143" height="30" width="30" /></a>
 </p>
 
 ---
