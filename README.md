@@ -15,10 +15,10 @@ https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c6
 ---
 - 🔭 I’m currently working on **Something Cool, will let u soon !**
 - 📫 How to reach me **deba1652001@gmail.com**
-- 💬 Ask me about **React.JS, C++, JavaScript**
-- 🌱 I’m currently learning **DSA & Backend Devlopment**
+- 💬 Ask me about **Web Development**
+- 🌱 I’m currently learning **Python, Django, many more . .**
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://debanjan-folio.netlify.app/)
-- ⚡ Fun fact **what is the object-oriented way to become welthy? --> INHERITANCE**
+- ⚡ Fun fact **what's the object-oriented way to become wealthy? -> INHERITANCE**
 
 <h3 align="center">Connect with me : <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></h3>
 <p align="center">
