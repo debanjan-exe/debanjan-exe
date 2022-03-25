@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://debanjan-folio.netlify.app/static/media/Programmer-cuate.6b39cc35c42a7a72083a.png" width="350px"></h1>
+<h1 align="center"><img src="https://github.com/debanjan-exe/debanjan-exe/blob/main/Code%20typing-bro.png?raw=true" width="350px"></h1>
 
 <h1 align="center">Hi, I'm Debanjan ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <p align="center">A boy trying to figure out his talents/skills</p>
