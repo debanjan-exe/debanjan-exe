@@ -15,10 +15,10 @@ https://cdn.dribbble.com/users/1626229/screenshots/14978408/media/55048f248647c6
 ---
 <h3 align="left"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="40">About me : </h3>
 
-- 🔭 I’m currently working on **Something Cool, will let u soon !**
+- 🔭 I’m currently working on **Something Cool, will let u know soon !**
 - 📫 How to reach me **deba1652001@gmail.com**
 - 💬 Ask me about **Web Development**
-- 🌱 I’m currently learning **Python, Django, many more . .**
+- 🌱 I’m currently learning **New Technologies**
 - 👨‍💻 All of my projects are available at [MyPortfolio](https://debanjan.netlify.app/)
 - ⚡ Fun fact **what's the object-oriented way to become wealthy? -> INHERITANCE**
 
