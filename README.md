@@ -2,7 +2,7 @@
 <h3 align="center">A boy trying to improve his Development & Problem Solving Skills</h3>
 
 <p align="center">
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="40%" />
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="55%" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan-exe" alt="debanjan-exe" /></a> </p>
