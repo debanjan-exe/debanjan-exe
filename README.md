@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">, I'm Debanjan Acharyya</h1>
-<h3 align="center">A boy trying to improve his Development & Problem Solving Skills</h3>
+<h3 align="center">currently dodging errors just like this dino !!</h3>
 
 <p align="center">
 <!-- <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="55%" /> -->
