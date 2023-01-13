@@ -3,6 +3,8 @@
 
 <p align="center">
 <!-- <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="55%" /> -->
+<!-- <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="55%" /> -->
+  
   <img align="center" alt="Code gif" src="https://github.com/debanjan-exe/debanjan-exe/blob/main/dino.gif?raw=true" width="100%" />
 </p>
 
