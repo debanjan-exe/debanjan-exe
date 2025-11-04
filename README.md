@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://debanjan.netlify.app/)
 
-- 📫 How to reach me **debanjanacharya21@gmail.com**
+- 📫 How to reach me **dacharyya01@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11o0CMhYUK_e1U7zM6hWm_DjJ3bIimmnE/view?usp=sharing)
 
