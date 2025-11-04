@@ -52,7 +52,6 @@
 
 <p align="center">
   <a href="https://github.com/debanjan-exe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=debanjan-exe&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="debanjan-exe" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debanjan-exe&show_icons=true&theme=tokyonight&locale=en" alt="debanjan-exe" />
   </a>
 </p>
